@@ -69,17 +69,7 @@ If you would like to contribute to Recipath, please follow these steps:
 - Result
   ![Result](https://github.com/Vaibhavk0192/recipath/blob/master/Website%20screenshots/Result.png?raw=true)
 
-## Contributors
 
-Recipath is the result of the collaborative efforts of a talented team of developers and designers who worked tirelessly to create an innovative and engaging recipe generation website. The contributors to Recipath include:
-
-- Ansh Midha: Lead backend developer, database designer, and AI engineer. Ansh played a pivotal role in developing the backend and designing the database schema for the application. He also applied his expertise in Artificial Intelligence to implement the recipe generation algorithm and optimize its performance.
-
-- Vaibhav Kapoor: Lead frontend developer and UI/UX designer. Vaibhav was responsible for designing and implementing the frontend of the application using React.js. He also leveraged his skills in UI/UX design to create a user-friendly interface that enhances the overall user experience.
-
-- Pulkit Saraf: Frontend developer. Pulkit contributed to the frontend development of the application, assisting in designing and implementing various UI components. His contributions were instrumental in creating a responsive and intuitive user interface.
-
-Together, the team behind Recipath created a cutting-edge recipe generation website that utilizes the latest technologies and design principles to provide users with a seamless and enjoyable experience.
 
 ## Future Scope
 
@@ -98,15 +88,6 @@ While Recipath is designed to generate recipes based on user input, there are so
 - Lack of user feedback: Recipath does not currently incorporate user feedback into its recommendations. This means that if a user selects a recipe that they don't like or that doesn't turn out well, the application will not be able to adjust its recommendations based on this feedback.
 - Technical issues: As with any software application, there is always the possibility of technical issues such as bugs or server downtime. While the development team is working to ensure that Recipath runs smoothly and reliably, there may be occasional issues that impact the user experience.
 - Generation speed: The recipe generation process can take some time, especially when generating complex or lengthy recipes. While efforts were made to optimize the generation speed, there may be limitations due to hardware constraints and technical expertise. As the development team consists of students who are still learning, there may be further opportunities to improve the generation speed in the future.
-
-## Contact Us
-
-If you have any questions, feedback, or suggestions about Recipath, feel free to contact us:
-
-- Ansh Midha: ansh.midha0312@gmail.com
-- Vaibhav Kapoor: vaibhavkapoor2002@gmail.com
-
-You can also open an issue on the [GitHub repository](https://github.com/Vaibhavk0192/recipath/issues) if you encounter any bugs or have feature requests.
 
 ## License
 
